@@ -1,0 +1,13 @@
+Cédula_de_ciudadanía - 1021212 - Maria - Perez_Ochoa - Femenino - 32030403 - mariaochoa@gmail.com
+Cédula_de_extranjería - 109932939 - Julian - Mena_Orteaga - Masculino - 320304031 - julian_01@gmail.com
+Pasaporte - 2020021221 - Samuel - Galindo_Silva - Masculino - 332030203 - samuelsilvasilva@gmail.com
+Cédula_de_ciudadanía - 102020221 - Santiago - Mena_Mena - Masculino - 320304343 - santiago@gmail.com
+Cédula_de_extranjería - 29323232 - Manuel - Carrasco_Vicente - Masculino - 320493493 - manuel@gmail.com
+Cédula_de_ciudadanía - 2121212 - Mercedes - Mena_Murillo - Femenino - 320304003 - mercedes@gmail.com
+Cédula_de_ciudadanía - 111111 - aaaa - aaa - Masculino - 333333 - qqqqqqqqq
+Tarjeta_de_identidad - 100000 - Santiago - Girasoles_Guiterrez - Masculino - 32030032 - santiagom@gmail.com
+Cédula_de_ciudadanía - 323231232 - Cristian - Mendoza_Zapata - Masculino - 32040343 - cristian@gmail.com
+Tarjeta_de_identidad - 21234343 - Talia - Asprilla_Andrade - Prefiero_no_decirlo - 32030403 - taliaAndrade@gmail.com
+Cédula_de_ciudadanía - 1067591966 - Jhoimar - Silva - Masculino - 3 - a
+Cédula_de_ciudadanía - 1100222 - Pedro - Jimenez - Masculino - 31922929 - eeeee
+

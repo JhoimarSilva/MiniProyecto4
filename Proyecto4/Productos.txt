@@ -1,0 +1,9 @@
+1 - Galletas - 1200.0 - 60 - Tu_proveedor
+2 - Pera - 500.0 - 21 - Verduras_y_más
+3 - Cuadernos - 2500.0 - 50 - Accesorios_y_variedades
+5 - Salchicha - 3000.0 - 60 - Tu_proveedor
+6 - Pan - 500.0 - 50 - Rapidos_SA
+11 - arepa - 3000.0 - 45 - Rapidos_SA
+22 - Cafe - 1900.0 - 55 - Rapidos_SA
+4 - Leche - 3100.0 - 60 - Rapidos_SA
+44 - Salsa_de_tomate - 3700.0 - 55 - Verduras_y_más
