@@ -1,2 +1,0 @@
-# WattPay
-Sistema WattPay
